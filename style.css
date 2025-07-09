@@ -1,7 +1,13 @@
 body{
- background-color: rgb(240, 117, 117);
+ background-color: rgb(145, 16, 16);
  color: black;
 }
 h1{
     color: rgb(61, 6, 6);
+}
+header{
+    border-bottom: solid 2px rgb(0, 0, 0) ;
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
 }
